@@ -1,4 +1,4 @@
-# flutter_application_2
+# Projeto em Flutter para a cadeira de CM
 
 A new Flutter project.
 
